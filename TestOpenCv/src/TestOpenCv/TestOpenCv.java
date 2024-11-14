@@ -5,7 +5,7 @@ import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import org.opencv.core.Scalar;
 import org.opencv.imgcodecs.Imgcodecs;
-////////////////////////////////////////////////////////////////
+
 public class TestOpenCv {
     public static void main(String[] args) {
         // Chargement de la bibliothèque OpenCV
